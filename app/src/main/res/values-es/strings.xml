@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Peliculas</string>
+    <string name="btn_search">Buscar</string>
+    <string name="txt_search">Buscá:</string>
+    <string name="txt_movies">pelicula</string>
+    <string name="txt_series">series</string>
+    <string name="txt_episode">episodio</string>
+    <string name="txt_filter_by">Filtrar por</string>
+    <string name="txt_type">Tipo:</string>
+    <string name="txt_year">Año:</string>
+</resources>

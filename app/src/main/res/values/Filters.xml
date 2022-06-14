@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="options">
+        <item>@string/txt_movies</item>
+        <item>@string/txt_series</item>
+        <item>@string/txt_episode</item>
+    </string-array>
+</resources>
